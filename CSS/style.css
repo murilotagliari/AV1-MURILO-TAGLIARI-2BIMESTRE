@@ -2,18 +2,18 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 241, 222);
+    background-color: rgb#6ec8ee;
 }
 
 header {
     background-color: #277CE0;
-    color: floralwhite;
+    color: white;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: gray;
+    background-color: #437ab8;
     padding: 10px;
     text-align: center;
 }
@@ -36,8 +36,9 @@ section {
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 10px;
-    background-color: whitesmoke;
+    background-color: #bae9fd;
     border-color: #277CE0;
+    color: gray;
 }
 
 footer {
